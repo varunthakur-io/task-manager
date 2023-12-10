@@ -4,7 +4,7 @@
 
 A simple Task Manager web application built using HTML, Bootstrap, and JavaScript. Users can add, edit, and delete tasks with a user-friendly interface.
 
-![Task Manager Screenshot](Screenshots\task-manager.png)
+![Task Manager Screenshot](https://github.com/varunthakur-io/task-manager/blob/main/Screenshots/task-manager.png)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
